@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "563d2dc0179874ffce35d5a5c703a63e",
+    "revision": "db65cebe4dd1c626b19f3202ebecc962",
     "url": "/Talesbylal/index.html"
   },
   {
-    "revision": "8818303f6d1ba16bf55d",
+    "revision": "1406c3bee7b098667999",
     "url": "/Talesbylal/static/css/2.fe1f7191.chunk.css"
   },
   {
-    "revision": "779b845bf4b5bb7102f4",
+    "revision": "66062a58a2e0f1055d21",
     "url": "/Talesbylal/static/css/main.88e5cac1.chunk.css"
   },
   {
-    "revision": "8818303f6d1ba16bf55d",
-    "url": "/Talesbylal/static/js/2.aadbae38.chunk.js"
+    "revision": "1406c3bee7b098667999",
+    "url": "/Talesbylal/static/js/2.c71f9fd4.chunk.js"
   },
   {
     "revision": "401de8e5619984896ddfc12555b57fd8",
-    "url": "/Talesbylal/static/js/2.aadbae38.chunk.js.LICENSE.txt"
+    "url": "/Talesbylal/static/js/2.c71f9fd4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "779b845bf4b5bb7102f4",
-    "url": "/Talesbylal/static/js/main.31c75a3c.chunk.js"
+    "revision": "66062a58a2e0f1055d21",
+    "url": "/Talesbylal/static/js/main.8a040fef.chunk.js"
   },
   {
     "revision": "4e0e34f265fae8f33b01b27ae29d9d6f",
-    "url": "/Talesbylal/static/js/main.31c75a3c.chunk.js.LICENSE.txt"
+    "url": "/Talesbylal/static/js/main.8a040fef.chunk.js.LICENSE.txt"
   },
   {
     "revision": "8c5c29955bafc7423f63",
@@ -58,6 +58,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b257fa9c5ac8c515ac4d77a667ce2943",
     "url": "/Talesbylal/static/media/default-skin.b257fa9c.svg"
+  },
+  {
+    "revision": "2fcf482d986dc0a847dd34e11ef41ba4",
+    "url": "/Talesbylal/static/media/me.2fcf482d.png"
   },
   {
     "revision": "285a8771e90912dcbae94af46b18675c",
